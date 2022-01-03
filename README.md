@@ -1,4 +1,4 @@
-network automation workshop
+Network automation workshop
 ===========================
 
 network automation workshop -- who knows what this even is...!?
